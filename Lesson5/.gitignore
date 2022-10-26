@@ -1,0 +1,25 @@
+﻿### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+idea/
+bin/
+obj/
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.Lesson5.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
